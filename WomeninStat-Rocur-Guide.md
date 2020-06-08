@@ -65,7 +65,7 @@ Suggestions on how to introduce yourself:
   
 ### General Tweeting Guidelines   
   
-* We do not require that you tweet a specific number of times. But, we ask that you be as active as your schedule allows during your curatorship.    
+* We do not require that you tweet a specific number of times. But, we ask that you be as active as your schedule allows during your curatorship. At least one tweet-thread per day would be ideal - tweets can be scheduled in advance through TweetDeck to help with timing.
 * The content of your tweets is all up to you! But keep it relevant to statistics and/or data science. Make the account and its tweets useful for learning.   
 * Tweet pictures/graphics whenever possible.  
     + Please properly attribute your photos and graphics by asking permission from the source if not you and tagging the individual if able.  
