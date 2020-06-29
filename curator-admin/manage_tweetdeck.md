@@ -25,7 +25,8 @@ The week before the RoCur takes over the account, do the following:
 
 ### Making the iconograph 
 
-Ask Lucy to fill in information here. 
+Create a iconograph using [these google slides](https://docs.google.com/presentation/d/12ogw03hgp42QKHSW3zLt-xE567uZM54vDCauuxhVnuQ/edit?usp=sharing). 
+Fill in the details using the [responses from the initial interest form](). 
 
 ### Email/message to send RoCur
 
