@@ -20,13 +20,16 @@ The week before the RoCur takes over the account, do the following:
 
 - Monday 8am: Once the scheduled tweet is posted on Monday at 8am EST, pin the tweet at the top of the @WomenInStats account.
 
+### End of the week 
+
+- Sunday PM: Send a thank you note to the RoCur
 
 ## More details on some tasks
 
 ### Making the iconograph 
 
 Create a iconograph using [these google slides](https://docs.google.com/presentation/d/12ogw03hgp42QKHSW3zLt-xE567uZM54vDCauuxhVnuQ/edit?usp=sharing). 
-Fill in the details using the [responses from the initial interest form](). 
+Fill in the details using the [responses](https://docs.google.com/spreadsheets/d/11HUV3BQ3uLykiFEKRH6LbbdCPZbxOWuo7VGJA42J0HY/edit?usp=sharing) from the [initial interest form](https://docs.google.com/forms/d/1FUgoURqZADAp7V5ir6Gx1DVxoJ1Ywe9i60ZuuJ1bUII/edit?usp=sharing). 
 
 ### Email/message to send RoCur
 
