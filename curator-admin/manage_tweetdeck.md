@@ -24,7 +24,17 @@ The week before the RoCur takes over the account, do the following:
 
 ### End of the week 
 
-- Sunday PM: Send a thank you note to the RoCur
+- Sunday PM: Send a thank you note to the RoCur. Here is a template email 
+
+```
+Hi <name>,
+
+We just wanted to thank you so much for your time being a @WomenInStat RoCur last week! 
+
+Hope all is well with you and your loved ones. 
+
+<add signature>
+```
 
 ## More details on some tasks
 
@@ -34,6 +44,29 @@ Create a iconograph using [these google slides](https://docs.google.com/presenta
 Fill in the details using the [responses](https://docs.google.com/spreadsheets/d/11HUV3BQ3uLykiFEKRH6LbbdCPZbxOWuo7VGJA42J0HY/edit?usp=sharing) from the [initial interest form](https://docs.google.com/forms/d/1FUgoURqZADAp7V5ir6Gx1DVxoJ1Ywe9i60ZuuJ1bUII/edit?usp=sharing). 
 
 ### Email/message to send RoCur
+
+This is a template email you can send confirming the requested date to be a RoCur. 
+
+```
+Hi <name>, 
+
+Thank you for signing up to be a RoCur! I am confirming your request. You are all set to be the @WomenInStat RoCur the week of <add-date>. We will reach out the week before with more details on how to access the account. Please let us know if anything changes between now and then. 
+
+<add signature>
+```
+
+This is a template email you can send to the RoCur if both requested weeks are filled up. 
+
+```
+Hi <name>, 
+
+Thank you for signing up to be a RoCur for @WomenInStat! Both of the weeks you listed as having a preference for have now been filled up. Would you be open to being a RoCur during one of the following weeks?
+
+<alt-date-1>
+<alt-date-2>
+
+<add signature>
+```
 
 This is a template email that you can send to the RoCur the week before. 
 
@@ -50,3 +83,4 @@ Please let us know if you have any questions and THANK YOU for signing up to be 
 
 <add signature>
 ```
+
