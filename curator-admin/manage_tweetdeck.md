@@ -19,13 +19,7 @@ The week before the RoCur takes over the account, do the following:
 - Sunday PM: Set up a scheduled tweet to be posted at Monday at 8am EST that announces the RoCur and including the icongraph. Below is an example.
 
 ```
-We are so excited to have 
-@jo_hardin47
- 
-@pomonacollege
- as this week's 
-@WomenInStat
- RoCur! #WSDS #Statistics
+We are so excited to have @jo_hardin47 from @pomonacollege as this week's @WomenInStat RoCur! #WSDS #Statistics
 
 🔦 Jo is part of a phenomenal team at https://teachdatascience.com who have been posting about #datascience #education activities all summer!
 
