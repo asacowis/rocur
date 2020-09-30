@@ -2,6 +2,12 @@
 
 _These were adapted from the [R-Ladies RoCur Guide](https://github.com/rladies/starter-kit/tree/master/RoCur-Twitter)_.
 
+## Organizing Team
+
+* Stephanie Hicks
+* Hannah Mendoza
+* Lucy D'Agostino McGowan
+
 ## About  
   
 The **[ASA Committee on Women in Statistics RoCur (Rotating Curation)](https://twitter.com/WomeninStat)** is a twitter handle that will feature an awesome member of our community in statistics or data science each week. This account is run by the Committee on Women in Statistics.      
