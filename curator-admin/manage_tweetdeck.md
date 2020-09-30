@@ -15,7 +15,7 @@ The week before the RoCur takes over the account, do the following:
 - Wednesday PM: send a message by email or twitter by Wednesday night confirming RoCur's participation and giving them detailed information on how the process works. See _Email/message to send RoCur_ below for more details. 
 - Wednesday PM: send a thank you message to last week's RoCur.
 - Sunday PM: Change bio/photo to RoCur.
-- Sunday PM: Use google form with responses to make the icongraph for the RoCur. 
+- Sunday PM: Use google form with responses to make the [icongraph for the RoCur](https://docs.google.com/presentation/d/12ogw03hgp42QKHSW3zLt-xE567uZM54vDCauuxhVnuQ/edit#slide=id.p1). 
 - Sunday PM: Set up a scheduled tweet to be posted at Monday at 8am EST that announces the RoCur and including the icongraph. 
 
 ### Week of
