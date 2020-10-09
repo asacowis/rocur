@@ -27,21 +27,13 @@ We are so excited to have @jo_hardin47 from @pomonacollege as this week's @Women
 ```
 ### Week of
 
-- Monday 8am: Once the scheduled tweet is posted on Monday at 8am EST, pin the tweet at the top of the @WomenInStats account.
+- Monday 8am: Once the scheduled tweet is posted on Monday at 8am EST, pin the tweet at the top of the @WomenInStats account using twitter.com (**Note**: you can only doe this from twitter.com, not tweetdeck).
 
-### End of the week 
+### The following week 
 
-- Sunday PM: Send a thank you note to the RoCur. Here is a template email 
+- Wednesday PM: Send a thank you note to the RoCur. Here is a template email 
 
-```
-Hi <name>,
 
-We just wanted to thank you so much for your time being a @WomenInStat RoCur last week! 
-
-Hope all is well with you and your loved ones. 
-
-<add signature>
-```
 
 ## More details on some tasks
 
@@ -91,3 +83,14 @@ Please let us know if you have any questions and THANK YOU for signing up to be 
 <add signature>
 ```
 
+This is a template email to send to the RoCur from the previous week (or the week after they complete their RoCur-ing) thanking them. Typically sent on Wednesday the following week. 
+
+```
+Hi <name>,
+
+We just wanted to thank you so much for your time being a @WomenInStat RoCur last week! 
+
+Hope all is well with you and your loved ones. 
+
+<add signature>
+```
