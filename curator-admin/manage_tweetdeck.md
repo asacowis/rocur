@@ -12,6 +12,7 @@ The week before the RoCur takes over the account, do the following:
 
 - Wednesday PM: Identify who is the next RoCur signed up in the [schedule](https://docs.google.com/spreadsheets/d/1wxjdP5EMimDbDrJIK1rY_adquD3MqZD__wT9oLosxZQ/edit?usp=sharing). You can find more information about the RoCur using the [responses](https://docs.google.com/spreadsheets/d/11HUV3BQ3uLykiFEKRH6LbbdCPZbxOWuo7VGJA42J0HY/edit?usp=sharing) from the [initial interest form](https://docs.google.com/forms/d/1FUgoURqZADAp7V5ir6Gx1DVxoJ1Ywe9i60ZuuJ1bUII/edit?usp=sharing).
 - Wednesday PM: In Tweetdeck, click _Accounts_ and then _Manage team_ to add the RoCur's twitter handle to be able to tweet from the account. 
+- Wednesday PM: Check to see if a photo has been sent from the RoCur. If not, ask about this in the email that you send as part of the next task.
 - Wednesday PM: send a message by email or twitter by Wednesday night confirming RoCur's participation and giving them detailed information on how the process works. See _Email/message to send RoCur_ below for more details. 
 - Wednesday PM: send a thank you message to last week's RoCur.
 - Sunday PM: Change bio/photo to RoCur.
@@ -68,6 +69,8 @@ Thank you for signing up to be a RoCur for @WomenInStat! Both of the weeks you l
 ```
 
 This is a template email that you can send to the RoCur the week before. 
+
+**If a photo has not been sent**: add this line to the email below: "One more thing we need from you: Can you send us a photo of you to use for next week on the @WomenInStat account?"
 
 ```
 Subject: RoCur for @WomenInStats next week
