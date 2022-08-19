@@ -46,7 +46,7 @@ We are always looking for volunteers to be a featured curator for our account! E
   
 * Curators must identify as female or non-binary.  
 * Curators do not need to be affiliated with ASA
-* Curators must be individuals (i.e. an ASA Chapter cannot be a featured curator; however, an organizer from a local chapter may curate and tweet about chapter events).   
+* Curators must be individuals. When a group is being showcased, we ask the perspectives of individuals to be shared and each person's name and face (picture) to be shared.     
 * By signing on to be a curator of @WomeinStat you agree to our Curator Agreement that is outlined in our [RoCur Curator Guide](https://github.com/asacowis/rocur/blob/master/WomeninStat-Rocur-Guide.md).    
   
 ## Curator Sign Up  
